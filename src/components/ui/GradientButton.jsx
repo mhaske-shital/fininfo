@@ -1,11 +1,9 @@
-function GradientButton({ children, as = 'button', ...rest }) {
-  const Comp = as
+const GradientButton = ({ text }) => {
   return (
-    <Comp className="app__nav-cta" {...rest}>
-      {children}
-    </Comp>
-  )
-}
+    <button className="gradient-btn">
+      {text}
+    </button>
+  );
+};
 
-export default GradientButton
-
+export default GradientButton;
