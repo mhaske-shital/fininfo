@@ -1,0 +1,85 @@
+{
+  "navigation": {
+    "logo": {
+      "src": "",
+      "alt": "Grafterr logo placeholder"
+    },
+    "links": [
+      { "label": "Products" },
+      { "label": "Solutions" }
+    ],
+    "cta": {
+      "label": "Book a demo"
+    }
+  },
+  "hero": {
+    "headlinePrefix": "Looking For New",
+    "headlineGradient": "technology provider",
+    "subheadline": "Explore our success stories to see how businesses like yours have transformed with Grafterr's technology.",
+    "cta": {
+      "label": "Learn More"
+    },
+    "secondaryCta": {
+      "label": "Talk to sales"
+    },
+    "metrics": [
+      {
+        "label": "Avg. revenue uplift",
+        "value": "+18%"
+      },
+      {
+        "label": "Orders processed / year",
+        "value": "120M+"
+      }
+    ],
+    "decorativeShapes": {
+      "teal": true,
+      "coral": true
+    }
+  },
+  "featuresSection": {
+    "title": "More ways Grafterr can help you",
+    "titleAccent": "grow your business",
+    "subtitle": "An award-winning, end-to-end restaurant technology & payments platform, designed to streamline food service and automate complex venue operations.",
+    "products": [
+      {
+        "id": "pos",
+        "name": "Point of sale",
+        "description": "Fast, staff-friendly POS built for busy service with tabs, table maps, and modifier flows.",
+        "badge": "Front of house",
+        "tagline": "Replace five legacy systems with one connected POS."
+      },
+      {
+        "id": "self-service",
+        "name": "Self-service",
+        "description": "QR ordering and kiosks that send orders straight to the kitchen and update in real time.",
+        "badge": "Guest experience",
+        "tagline": "Shorter queues, higher average order values."
+      },
+      {
+        "id": "kitchen",
+        "name": "Kitchen management",
+        "description": "Smart KDS with routing, course control, and expo screens tailored to each station.",
+        "badge": "Back of house",
+        "tagline": "Every ticket, perfectly sequenced."
+      },
+      {
+        "id": "kitchen_Item",
+        "name": "Kitchen management",
+        "description": "Smart KDS with routing, course control, and expo screens tailored to each station.",
+        "badge": "Back of house",
+        "tagline": "Every ticket, perfectly sequenced."
+      }
+       
+    ],
+    "carousel": {
+      "itemsPerView": {
+        "mobile": 1,
+        "tablet": 2,
+        "desktop": 3
+      },
+      "showArrows": true
+    }
+  }
+}
+
