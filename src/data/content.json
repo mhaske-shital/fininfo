@@ -2,15 +2,15 @@
   "products": [
     {
       "title": "Point of sale",
-      "image": "src/assets/image1.png"
+      "image": "/assets/image1.png"
     },
     {
       "title": "Self-service",
-      "image": "src/assets/image2.png"
+      "image": "/assets/image2.png"
     },
     {
       "title": "Kitchen management",
-      "image": "src/assets/image3.png"
+      "image": "/assets/image3.png"
     }
   ]
 }
